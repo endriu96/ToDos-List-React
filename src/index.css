@@ -1,0 +1,14 @@
+html{
+  box-sizing: border-box;
+}
+
+*,::after, ::before{
+  box-sizing: inherit;
+}
+
+body{
+  background-color: bisque;
+  width: 1000px;
+  font-family: 'Lato',sans-serif;
+  margin:auto;
+}
